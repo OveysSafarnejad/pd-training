@@ -2,6 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.idea/
+src/pandas_series/resources/README_2019.txt
+src/pandas_series/resources/so_survey_2019.pdf
+src/pandas_series/resources/survey_results_public.csv
+src/pandas_series/resources/survey_results_schema.csv
 
 # C extensions
 *.so
